@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Safe Neighborhood</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="report">Report Incident</string>
+    <string name="sos">SOS</string>
+    <string name="emergency">Emergency!!!</string>
+    <string name="chat">Forum</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video</string>
+    <string name="post">Report</string>
+    <string name="imageview">Camera photo will appear here</string>
+    <string name="hint">Type your additional information here&#8230;</string>
+</resources>
